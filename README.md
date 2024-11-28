@@ -7,3 +7,5 @@ this is the git course
 __Bold__
 ***Bold and italic***
 
+*italic*
+
