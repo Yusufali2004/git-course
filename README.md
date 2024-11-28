@@ -9,3 +9,4 @@ __Bold__
 
 *italic*
 
+~~strikethrough~~
